@@ -1,7 +1,6 @@
-<h1>acaiberii</h1>
-<style>
-.title {
-    background-color: linear-gradient(270deg, red, orange, yellow, green, blue, purple, blue, green, yellow, orange, red);
-    background-size: 200%, 100%;
-}
-</style>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<style>
+		h1 {color: dimgray; font-family: "Arial";}
+	</style>
+	<h1>AcaiBerii</h1>
+</svg>
