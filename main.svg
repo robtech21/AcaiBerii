@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 50" width="200" height="50">
 	<style>
-		h1 {color: white; font-family: "Arial";}
+		.title {color: white; font-family: "Arial";}
 	</style>
-	<h1>AcaiBerii</h1>
+	<center><h1 class="title">AcaiBerii</h1></center>
 </svg>
