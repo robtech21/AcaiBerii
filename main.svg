@@ -2,5 +2,9 @@
 	<style>
 		.title {color: white; font-family: "Arial";}
 	</style>
-	<center><h1 class="title">AcaiBerii</h1></center>
+    <foreignObject class="node" x="46" y="22" width="200" height="300">
+    <body xmlns="http://www.w3.org/1999/xhtml">
+        <center><h1 class="title">AcaiBerii</h1></center>
+    </body>
+  </foreignObject>
 </svg>
