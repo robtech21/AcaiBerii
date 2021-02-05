@@ -1,4 +1,4 @@
-<div align="center"><img src="main.svg" width="400" height="300"></div>
-<div align="center">AcaiBerii</div>
+<div align="center"><img src="main.svg" width="600" height="500"></div>
+
 <div align="center">Author of MCPacker, BootJect.</div>
 <div align="center">Langs: C#, Python, Web, JS, Java.</div>
