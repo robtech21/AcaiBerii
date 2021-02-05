@@ -2,5 +2,6 @@
 <style>
 .title {
     background-color: linear-gradient(270deg, red, orange, yellow, green, blue, purple, blue, green, yellow, orange, red);
+    background-size: 200%, 100%;
 }
 </style>
