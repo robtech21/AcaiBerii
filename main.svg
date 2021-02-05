@@ -1,0 +1,6 @@
+<center><h1 class="title">AcaiBerii</h1></center>
+<style>
+.title {
+    background-color: linear-gradient(270deg, red, orange, yellow, green, blue, purple, blue, green, yellow, orange, red);
+}
+</style>
