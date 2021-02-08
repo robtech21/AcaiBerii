@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
 	<style>
-		.title {background: linear-gradient(270deg, black 0%, dimgray 50%, black 100%); border-radius: 5%; color: white; font-family: "Arial"; animation: colour 5s ease infinite; background-size: 200%, 100%;}
+		.title {background: linear-gradient(270deg, transparent 0%, dimgray 50%, transparent 100%); border-radius: 5%; color: white; font-family: "Arial"; animation: colour 5s ease infinite; background-size: 200%, 100%;}
     @keyframes colour {
       0% {
         background-position: 200%;
@@ -12,7 +12,7 @@
 	</style>
     <foreignObject class="node" x="0" y="0" width="200" height="50">
     <body xmlns="http://www.w3.org/1999/xhtml">
-        <center><h1 class="title">AcaiBerii</h1></center>
+        <center><h1 class="title">acaiberii</h1></center>
     </body>
   </foreignObject>
 </svg>
