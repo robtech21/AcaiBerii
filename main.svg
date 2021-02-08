@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="200" height="50">
 	<style>
-		.title {background-clip: text; background-repeat: norepeat; background: linear-gradient(270deg, transparent 0%, dimgray 50%, transparent 100%); border-radius: 0%; color: white; font-family: "Arial"; animation: colour 5s ease infinite; background-size: 200%, 100%;}
+		.title {background-clip: text; background-repeat: norepeat; background: linear-gradient(270deg, transparent 0%, dimgray 50%, transparent 100%); border-radius: 0%; color: white; font-family: "Arial"; animation: colour 5s linear infinite; background-size: 200%, 100%;}
     @keyframes colour {
       0% {
         background-position: 200%;
