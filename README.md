@@ -1,6 +1,6 @@
 <div align="center"><img src="main.svg" width="200" height="50"></div>
 <div align="center"><h1></h1></div>
-<div align="center">Author of MCPacker, BootJect, and KEKLEAK.</div>
+<div align="center">Small brain author of MCPacker, BootJect, and KEKLEAK.</div>
 <div align="center">Langs: C#, Python, Web, JS, Java.</div>
 <div align="center"><h1></h1></div>
 <div align="center"><h3>KEKLEAK</h3> An exploit that uses readable ASCII data found in Chrome Session SQLite databases to read and parse your browsing history. > Python</div>
