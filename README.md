@@ -7,3 +7,4 @@
 <div align="center"><h3>MCPacker</h3> Resource pack utility made in Python for Minecraft: Windows 10 and Minecraft: Java Edition. > Python</div>
 <div align="center"><h3>BootJect</h3> A DLL injector that uses automatic program selection to find and inject a selected DLL. > Windows Forms (C#.NET)</div>
 <div align="center"><h3>vBoost</h3> An FPS booster and crapware cleaner. > Windows Forms (C#.NET)</div>
+<div align="center"><h3>solur</h3> Malware to disable task manager and overwrite BOOTMBR > Windows Forms (C#.NET)</div>
