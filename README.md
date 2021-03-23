@@ -8,6 +8,6 @@
 <div align="center"><h4>About me:</h4></div>
 <div align="center">
 I like the Python and the C#.<br>
-I don't do the program.<br>
+I don't do the hacker.<br>
 Eat pantaloons.<br>
 </div>
