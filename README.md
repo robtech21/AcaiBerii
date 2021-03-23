@@ -16,4 +16,5 @@ Eat pantaloons.<br>
   <a href="https://acaiberii.github.io/">GitHub.IO Website</a><br>
   <a href="https://acaiberii.studiouifxdesig.repl.co">Website</a><br>
 </div>
+<img src="https://github-readme-stats.vercel.app/api?username=AcaiBerii">
 
