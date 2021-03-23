@@ -21,6 +21,7 @@ Eat pantaloons.<br>
 <div align="center">
   <h4>Stats:</h4><br>
   <img src="https://github-readme-stats.vercel.app/api?username=AcaiBerii">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AcaiBerii&layout=compact">
 </div>
 <br>
 <div align="center">
