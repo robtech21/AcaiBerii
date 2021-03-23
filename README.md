@@ -6,4 +6,8 @@
 <div align="center">@Unknown-User2 (https://github.com/Unknown-User2)</div>
 <div align="center">@Alvarito050506 (https://github.com/Alvarito050506)</div>
 <div align="center"><h4>About me:</h4></div>
-<div align="center">I like the Python and the C#.</div>
+<div align="center">
+I like the Python and the C#.
+I don't do the program.
+Eat pantaloons.
+</div>
