@@ -23,5 +23,5 @@ Eat pantaloons.<br>
 <br>
 <div align="center">
   <h4>My QR Code:</h4><br>
-  <img src="https://i.ibb.co/jHvQzb2/qrcode-github-com.png">
+  <img src="https://i.ibb.co/jHvQzb2/qrcode-github-com.png" width="50">
 </div>
