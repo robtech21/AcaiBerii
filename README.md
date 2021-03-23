@@ -7,7 +7,7 @@
 <div align="center">@Alvarito050506 (https://github.com/Alvarito050506)</div>
 <div align="center"><h4>About me:</h4></div>
 <div align="center">
-I like the Python and the C#.
-I don't do the program.
-Eat pantaloons.
+I like the Python and the C#.<br>
+I don't do the program.<br>
+Eat pantaloons.<br>
 </div>
