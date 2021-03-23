@@ -13,7 +13,7 @@ Eat pantaloons.<br>
 </div>
 <div align="center"><h4>The linkk:</h4></div>
 <div align="center">
-  <a href="https://www.acaiberii.github.io/">GitHub.IO Website</a><br>
-  <a href="https://www.acaiberii.studiouifxdesig.repl.co">Website</a><br>
+  <a href="https://acaiberii.github.io/">GitHub.IO Website</a><br>
+  <a href="https://acaiberii.studiouifxdesig.repl.co">Website</a><br>
 </div>
 
