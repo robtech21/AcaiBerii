@@ -20,3 +20,8 @@ Eat pantaloons.<br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AcaiBerii">
 </div>
+<br>
+<div align="center">
+  <h4>My QR Code:</h4><br>
+  <img src="https://i.ibb.co/jHvQzb2/qrcode-github-com.png">
+</div>
